@@ -41,4 +41,4 @@ jobs:
           persist-credentials: false
 
       - name: Run zizmor
-        uses: zizmorcore/zizmor-action@71321a20a9ded102f6e9ce5718a2fcec2c4f70d8 # v0.5.2
+        uses: chainguard-actions/zizmorcore-zizmor-action@3ef963ed5cad4be9babbc8899ad79b84e09d8320 # v0.5.2
